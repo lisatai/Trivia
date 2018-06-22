@@ -1,0 +1,63 @@
+body {
+	background-image: url("../images/candyland.jpg");
+}
+
+#container {
+	background-color: #f5f663;
+	width: 1000px;
+	margin: 50px auto;
+	height: 650px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 70px;
+	letter-spacing: 0.4rem;
+	color: #1c02c7;
+	font-weight: bold;
+	padding-top: 50px;
+}
+
+.counting-down {
+	font-weight: bold;
+}
+
+#time-remaining, h3 {
+	font-size: 30px;
+}
+
+.thebuttons {
+	border: 2px solid #1c02c7;
+	width: 300px;
+	margin: 150px auto;
+	height: 90px;
+	text-align: center;
+	font-size: 40px;
+	background-color: #ffc3ea;
+	padding-bottom: 8px;
+}
+
+#done-button {
+	margin-top: 70px;
+	margin-bottom: 60px;
+}
+
+#questionnaire {
+	background-color: #f5f663;
+	margin-top: 60px;
+	margin-bottom: 50px;
+}
+
+.bigger-container {
+	height: 1000px;
+}
+
+#results-page {
+	font-size: 25px;
+	margin-top: 120px;
+	line-height: 2rem;
+}
+
+#results-page h2 {
+	font-size: 35px;
+}
