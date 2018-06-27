@@ -40,12 +40,14 @@ h1 {
 #done-button {
 	margin-top: 70px;
 	margin-bottom: 60px;
+
 }
 
 #questionnaire {
 	background-color: #f5f663;
 	margin-top: 60px;
 	margin-bottom: 50px;
+	
 }
 
 .bigger-container {
@@ -56,6 +58,7 @@ h1 {
 	font-size: 25px;
 	margin-top: 120px;
 	line-height: 2rem;
+	
 }
 
 #results-page h2 {
